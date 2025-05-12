@@ -55,7 +55,7 @@ export default function Footer() {
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8">
             <Link to="/" className="text-2xl font-bold text-primary-600">
-              SRIDEA
+              SRIRAMA IDEA IIT-JEE / NEET ACADEMY
             </Link>
             <p className="text-gray-500 text-base">
               Empowering Minds, Shaping Futures. Where learning is not just a process but a personalized experience.
@@ -124,7 +124,7 @@ export default function Footer() {
         </div>
         <div className="mt-12 border-t border-gray-200 pt-8">
           <p className="text-base text-gray-400 text-center">
-            &copy; {new Date().getFullYear()} SRIDEA. All rights reserved.
+            &copy; {new Date().getFullYear()} SRIRAMA IDEA IIT-JEE / NEET ACADEMY. All rights reserved.
           </p>
         </div>
       </div>

@@ -247,7 +247,7 @@ export default function Contact() {
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="SRIDEA Location"
+              title="SRIRAMA IDEA IIT-JEE / NEET ACADEMY Location"
             />
           </div>
         </div>

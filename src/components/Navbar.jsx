@@ -20,8 +20,8 @@ export default function Navbar() {
       <nav className="flex items-center justify-between w-full px-6 py-3 md:px-12">
         <div className="flex items-center">
           <Link to="/" className="flex items-center">
-            <img src={logo} alt="SRIDEA Logo" className="h-16 w-auto md:h-20 mr-2" />
-            <span className="text-3xl font-extrabold text-primary-500 tracking-tight">SRIDEA</span>
+            <img src={logo} alt="SRIRAMA IDEA IIT-JEE / NEET ACADEMY Logo" className="h-16 w-auto md:h-20 mr-2" />
+            <span className="text-3xl font-extrabold text-primary-500 tracking-tight">SRIRAMA IDEA IIT-JEE / NEET ACADEMY</span>
           </Link>
         </div>
 
