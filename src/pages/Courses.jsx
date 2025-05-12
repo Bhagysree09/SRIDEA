@@ -111,7 +111,7 @@ export default function Courses() {
       <section className="w-full py-16 bg-primary-500 flex flex-col items-center">
         <h2 className="text-3xl font-bold text-white mb-4 text-center">Ready to Start Your Journey?</h2>
         <p className="mb-8 text-lg text-primary-50 text-center max-w-2xl">
-          Join SR IDEA today and take the first step towards your academic success
+          Join SRIRAMA IDEA IIT-JEE / NEET ACADEMY today and take the first step towards your academic success
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link to="/admissions" className="px-8 py-3 rounded-full bg-white text-primary-500 font-bold shadow hover:bg-primary-100 transition-all duration-200 text-lg">

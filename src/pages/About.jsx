@@ -47,10 +47,10 @@ export default function About() {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-5xl font-extrabold text-primary-500 mb-4"
           >
-            About SR IDEA
+            About SRIRAMA IDEA IIT-JEE / NEET ACADEMY
           </motion.h1>
           <p className="text-lg text-gray-700 mb-6 max-w-xl">
-            SR IDEA empowers students through personalized, modern education and expert guidance. We focus on excellence, innovation, and student success.
+            SRIRAMA IDEA IIT-JEE / NEET ACADEMY empowers students through personalized, modern education and expert guidance. We focus on excellence, innovation, and student success.
           </p>
         </div>
         <div className="flex-1 flex justify-center z-10">

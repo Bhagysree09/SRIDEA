@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const testimonials = [
   {
     name: 'Aarav S.',
-    text: 'SR IDEA helped me achieve my dream score in IIT-JEE. The faculty and personalized attention made all the difference!',
+    text: 'SRIRAMA IDEA IIT-JEE / NEET ACADEMY helped me achieve my dream score in IIT-JEE. The faculty and personalized attention made all the difference!',
   },
   {
     name: 'Priya M.',
@@ -12,7 +12,7 @@ const testimonials = [
   },
   {
     name: 'Rahul K.',
-    text: 'I loved the small class sizes and the focus on every student. SR IDEA is the best place to learn and grow.',
+    text: 'I loved the small class sizes and the focus on every student. SRIRAMA IDEA IIT-JEE / NEET ACADEMY is the best place to learn and grow.',
   },
 ];
 
@@ -89,7 +89,7 @@ export default function Home() {
 
       {/* Features Section */}
       <section className="w-full py-16 bg-white flex flex-col items-center">
-        <h2 className="text-3xl font-bold text-gray-900 mb-10 text-center">Why Choose SR IDEA</h2>
+        <h2 className="text-3xl font-bold text-gray-900 mb-10 text-center">Why Choose SRIRAMA IDEA IIT-JEE / NEET ACADEMY</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-5xl">
           {features.map((feature) => (
             <div key={feature.name} className="flex flex-col items-center bg-primary-50 rounded-xl p-8 shadow hover:shadow-lg transition">
@@ -131,7 +131,7 @@ export default function Home() {
       <section className="w-full py-16 bg-primary-500 flex flex-col items-center">
         <h2 className="text-3xl font-bold text-white mb-4 text-center">Ready to Start Your Journey?</h2>
         <p className="mb-8 text-lg text-primary-50 text-center max-w-2xl">
-          Join SR IDEA today and take the first step towards your academic success
+          Join SRIRAMA IDEA IIT-JEE / NEET ACADEMY today and take the first step towards your academic success
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link to="/admissions" className="px-8 py-3 rounded-full bg-white text-primary-500 font-bold shadow hover:bg-primary-100 transition-all duration-200 text-lg">
